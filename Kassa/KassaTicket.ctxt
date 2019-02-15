@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=KassaTicket
+comment0.text=\r\nWrite\ a\ description\ of\ class\ KassaTicket\ here.\r\n\r\n@author\ (your\ name)\r\n@version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=intgivenPrice
+comment1.target=KassaTicket(int)
+comment2.params=
+comment2.target=int\ getPrice()
+comment3.params=_Amount
+comment3.target=void\ setAmount(int)
+comment4.params=
+comment4.target=int\ getAmount()
+comment5.params=
+comment5.target=int\ getTotal()
+comment6.params=
+comment6.target=void\ PrintTicket()
+numComments=7
